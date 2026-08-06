@@ -1,0 +1,8 @@
+theme: just-the-docs
+title: Grobb Wiki
+description: A guide to the world, NPCs, lore, and rules
+
+search_enabled: true
+search.button: true
+
+nav_order: 1
