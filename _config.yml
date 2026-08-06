@@ -1,8 +1,23 @@
-theme: just-the-docs
-title: Grobb Wiki
-description: A guide to the world, NPCs, lore, and rules
+# Jekyll Configuration for GitHub Pages
 
+# Site settings
+title: Shadowdark Campaign Wiki
+description: A guide to the world, NPCs, locations, and lore
+url: "" # Leave empty for GitHub Pages
+
+# Theme
+remote_theme: just-the-docs/just-the-docs
+color_scheme: dark
+
+# Search settings
 search_enabled: true
 search.button: true
 
+# Navigation
 nav_order: 1
+
+# Exclude files from build
+exclude:
+  - .github
+  - Gemfile
+  - Gemfile.lock
