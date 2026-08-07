@@ -23,4 +23,4 @@ exclude:
   - Gemfile.lock
 
 # Icon
-favicon: /images/dice.svg
+favicon: /assets/favicon.svg
