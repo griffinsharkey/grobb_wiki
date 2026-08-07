@@ -10,7 +10,7 @@ A wiki for our campaigns in Grobb
 Here are some of the role-playing games currently and previously set in Grobb
 
 ### Active
-- [The Gatehouse]({% link docs/gatehouse/index.md %}) - a simple dungeon-crawl using Shadowdark.
+- [The Gatehouse](docs/gatehouse/index.md) - a simple dungeon-crawl using Shadowdark.
 
 ### Potential
 - Wardens of Stonehell - a player-driven campaign using DCC and Michael Curtis's Stonehell mega-dungeon.
