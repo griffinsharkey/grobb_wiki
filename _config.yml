@@ -1,13 +1,13 @@
 # Jekyll Configuration for GitHub Pages
 
 # Site settings
-title: Shadowdark Campaign Wiki
+title: World of Grobb
 description: A guide to the world, NPCs, locations, and lore
 url: "" # Leave empty for GitHub Pages
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
-color_scheme: dark
+color_scheme: light
 
 # Search settings
 search_enabled: true
