@@ -16,6 +16,13 @@ defaults:
     values:
       layout: "default"
 
+plugins:
+    - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
 # Theme
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark

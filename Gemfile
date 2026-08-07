@@ -5,4 +5,4 @@ source "https://rubygems.org"
 # gem "rails"
 gem "jekyll", "~> 4.3.0"
 gem "just-the-docs"
-
+gem "jekyll-relative-links"
