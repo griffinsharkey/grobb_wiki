@@ -7,6 +7,15 @@ url: "" # Leave empty for GitHub Pages
 repository: griffinsharkey/grobb_wiki # github-metadata
 favicon: favicon.ico
 
+# Default settings
+defaults:
+  - scope:
+      path: "docs"
+      type: "pages"
+    
+    values:
+      layout: "default"
+
 # Theme
 remote_theme: just-the-docs/just-the-docs
 color_scheme: light
