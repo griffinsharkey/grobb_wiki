@@ -5,7 +5,6 @@ title: World of Grobb
 description: A guide to the world, NPCs, locations, and lore
 url: "" # Leave empty for GitHub Pages
 repository: griffinsharkey/grobb_wiki # github-metadata
-layout: "minimal"
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
@@ -24,3 +23,9 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+
+plugins:
+  - jekyll-sass-converter
+
+sass:
+  sass_dir: assets/css
