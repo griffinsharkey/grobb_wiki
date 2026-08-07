@@ -58,7 +58,7 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Spear        | 5 sp  | 1          | 1d6      |
 
 ---
-### Boyer's Shop
+### Bowyer's Shop
 
 | Item Name   | Cost | Gear Slots | Damage | Range |
 | ----------- | ---- | ---------- | ------ | ----- |
