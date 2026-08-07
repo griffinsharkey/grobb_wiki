@@ -4,7 +4,10 @@ parent: The Gatehouse
 nav_order: "2"
 ---
 # The Town of Caoilainn
-
+Quick-Links
+- [Market Place](#market-place)
+- [Retainers](#retainers)
+- 
 ## Market Place
 Here is a list of the items for sale within Caoilainn. The tables include their cost, item slots, and other features for weapons and armor.
 
@@ -63,3 +66,18 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Hunting Bow | 1 gp | 2          | 1d6    | C/N   |
 | Longbow     | 5 gp | 2          | 1d8    | F     |
 | Sling       | 5 sp | 2          | 1d4    | C/N   |
+
+---
+## Retainers
+Here are a list of Level-0 retainers that are looking for work.
+#### Gardulkar the Human
+**S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2, **Gear:** Club, Leather Armor
+#### Juzawik the Human
+**S** +2, **D** +0, **C** +1, **I** +3, **W** +0, **Ch** +0, **AL** N, **HP** 1, **Gear:** Hunting Bow, Arrows (5)
+#### Luuranoth the Elf
+**S** +1, **D** -1, **C** +2, **I** -1, **W** +2, **Ch** +2, **AL** N, **HP** 2, **Gear:** Dagger, Shield
+#### Michaelus the Human
+**S** -2, **D** +0, **C** -1, **I** +1, **W** +2, **Ch** +0, **AL** N, **HP** 1, **Gear:** Hunting Bow, Arrows (5)
+
+---
+
