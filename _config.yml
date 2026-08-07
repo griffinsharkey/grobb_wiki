@@ -5,7 +5,7 @@ title: World of Grobb
 description: A guide to the world, NPCs, locations, and lore
 url: "" # Leave empty for GitHub Pages
 repository: griffinsharkey/grobb_wiki # github-metadata
-favicon: favicon.png
+favicon: favicon.ico
 
 # Theme
 theme: just-the-docs
