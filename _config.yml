@@ -18,14 +18,16 @@ defaults:
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
-color_scheme: light
+color_scheme: dark
 
 # Search settings
 search_enabled: true
 search.button: true
 
-# Navigation
-nav_order: 1
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
 
 # Exclude files from build
 exclude:
