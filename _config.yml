@@ -21,3 +21,6 @@ exclude:
   - .github
   - Gemfile
   - Gemfile.lock
+
+# Icon
+favicon: images/dice.svg
