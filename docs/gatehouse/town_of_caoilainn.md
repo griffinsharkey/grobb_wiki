@@ -1,7 +1,7 @@
 ---
 title: The Town of Caoilainn
 parent: The Gatehouse
-nav_order: "2"
+nav_order: "3"
 ---
 # The Town of Caoilainn
 #### Quick-Links

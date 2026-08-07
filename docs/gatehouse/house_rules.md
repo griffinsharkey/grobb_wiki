@@ -1,7 +1,7 @@
 ---
 title: House Rules
 parent: The Gatehouse
-nav_order: "3"
+nav_order: "2"
 ---
 # House Rules
 Here are the house rules for The Gatehouse adventure.
