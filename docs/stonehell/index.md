@@ -1,6 +1,6 @@
 ---
-title: The Gatehouse
-nav_order: "2"
+title: Wardens of Stonehell
+nav_order: "3"
 ---
 # Wardens of Stonehell
 

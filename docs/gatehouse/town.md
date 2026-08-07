@@ -4,7 +4,7 @@ parent: The Gatehouse
 nav_order: "2"
 ---
 # The Town of Caoilainn
-Quick-Links
+#### Quick-Links
 - [Market Place](#market-place)
 - [Retainers](#retainers)
 
@@ -69,14 +69,14 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 
 ---
 ## Retainers
-Here are a list of Level-0 retainers that are looking for work.
-#### Gardulkar the Human
+Here are a list of Level-0 retainers that are looking for work. Fee is 10 gold per delve.
+#### Garduk the Human | Employed by: TBD
 **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2, **Gear:** Club, Leather Armor
-#### Juzawik the Human
+#### Juzawik the Human | Employed by: TBD
 **S** +2, **D** +0, **C** +1, **I** +3, **W** +0, **Ch** +0, **AL** N, **HP** 1, **Gear:** Hunting Bow, Arrows (5)
-#### Luuranoth the Elf
+#### Nathant the Elf | Employed by: TBD
 **S** +1, **D** -1, **C** +2, **I** -1, **W** +2, **Ch** +2, **AL** N, **HP** 2, **Gear:** Dagger, Shield
-#### Michaelus the Human
+#### Michaelus the Human | Employed by: TBD
 **S** -2, **D** +0, **C** -1, **I** +1, **W** +2, **Ch** +0, **AL** N, **HP** 1, **Gear:** Hunting Bow, Arrows (5)
 
 ---
