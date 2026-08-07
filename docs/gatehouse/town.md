@@ -7,7 +7,7 @@ nav_order: "2"
 Quick-Links
 - [Market Place](#market-place)
 - [Retainers](#retainers)
-- 
+
 ## Market Place
 Here is a list of the items for sale within Caoilainn. The tables include their cost, item slots, and other features for weapons and armor.
 
