@@ -21,6 +21,4 @@ exclude:
   - .github
   - Gemfile
   - Gemfile.lock
-
-# Icon
-favicon: /assets/favicon.svg
+  - README.md
