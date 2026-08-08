@@ -12,7 +12,7 @@ nav_order: "3"
 # Town Layout
 
 <div align="center">
-  <img src="images/caoilainn.png" alt="Centered map">
+  <img src="{{ site.baseurl }}/images/caoilainn.png" alt="Centered map">
 </div>
 
 ---
