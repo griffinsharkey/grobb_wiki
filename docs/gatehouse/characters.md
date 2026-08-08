@@ -6,7 +6,7 @@ parent: The Gatehouse
 # The Characters
 A list of the current characters who are actively delving the Gatehouse.
 
-## Ardo the Halfling Thief
+## ~~Ardo the Halfling Thief~~
 
 
 
