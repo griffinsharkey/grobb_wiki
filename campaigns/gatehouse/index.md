@@ -1,7 +1,6 @@
 ---
 title: The Gatehouse
 nav_order: "2"
-nav_exclude: "true"
 ---
 # The Gatehouse
 
