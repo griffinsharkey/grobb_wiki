@@ -1,6 +1,6 @@
 ---
 title: Wardens of Stonehell
-nav_exclude: "true"
+nav_exclude: true
 ---
 # Wardens of Stonehell
 
