@@ -4,15 +4,23 @@ parent: The Gatehouse
 nav_order: "3"
 ---
 # The Town of Caoilainn
-#### Quick-Links
+### Contents
+- [Town Layout](#town-layout)
 - [Market Place](#market-place)
 - [Retainers](#retainers)
 
-## Market Place
+# Town Layout
+
+<div align="center">
+  <img src="images/caoilainn.png" alt="Centered map">
+</div>
+
+---
+# Market Place
 Here is a list of the items for sale within Caoilainn. The tables include their cost, item slots, and other features for weapons and armor.
 
 ---
-### Fudwick's Emporium
+## Fudwick's Emporium
 
 | Item Name        | Cost  | # per Item Slot      |
 | ---------------- | ----- | -------------------- |
@@ -34,8 +42,8 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Vial, Glass      | 5 gp  | 1                    |
 
 ---
-### The Smithy
-#### Armor
+## The Smithy
+### Armor
 
 | Item Name     | Cost   | Gear Slots | AC           |
 | ------------- | ------ | ---------- | ------------ |
@@ -45,7 +53,7 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Shield        | 15 gp  | 1          | +2 when held |
 | Helmet        | 15 gp  | 1          | -            |
 
-#### Weapons
+### Weapons
 
 | Item Name    | Cost  | Gear Slots | Damage   |
 | ------------ | ----- | ---------- | -------- |
@@ -58,7 +66,7 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Spear        | 5 sp  | 1          | 1d6      |
 
 ---
-### Bowyer's Shop
+## Bowyer's Shop
 
 | Item Name   | Cost | Gear Slots | Damage | Range |
 | ----------- | ---- | ---------- | ------ | ----- |
@@ -68,8 +76,11 @@ Here is a list of the items for sale within Caoilainn. The tables include their 
 | Sling       | 5 sp | 2          | 1d4    | C/N   |
 
 ---
-## Retainers
-Here are a list of Level-0 retainers that are looking for work. Fee is 10 gold per delve.
+# Retainers
+Here are a list of retainers that are looking for work.
+
+## Level 0
+Fee: 5 gp per delve
 ### Garduk the Human | Employed by: TBD
 - **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2
 - **Gear:** Club, Leather Armor
@@ -82,10 +93,13 @@ Here are a list of Level-0 retainers that are looking for work. Fee is 10 gold p
 - **S** +1, **D** -1, **C** +2, **I** -1, **W** +2, **Ch** +2, **AL** N, **HP** 2
 - **Gear:** Dagger, Shield
 
-### Michaelus the Human | Employed by: TBD
-- **S** -2, **D** +0, **C** -1, **I** +1, **W** +2, **Ch** +0, **AL** N, **HP** 1
-- **Gear:** Hunting Bow, Arrows (5)
-
+## Level 1
+Fee: 10 gp per delve
+### Delrean the Human Wizard | Employed by: TBD
+- **S** -1, **D** +2, **C** -1, **I** +2, **W** +0, **Ch** +2, **AL** N, **HP** 2
+- **Gear:** Caltrops (one bag), Dagger, Flask,
+- **Spells:** Detect Magic, Hold Portal, Magic Missile, Sleep
+- **Talents:** Adv on Detect Magic, Learn Sleep
 
 ---
 

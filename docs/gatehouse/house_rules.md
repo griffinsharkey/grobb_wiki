@@ -15,3 +15,34 @@ Here are the house rules for The Gatehouse adventure.
 - If a torch goes out in the dark, DC12 **DEX** or **INT** check to relight on your turn
 - Shields may be destroyed to ignore *incoming damage*
 - Helmets may be destroyed to ignore a *critical strike*
+
+# Downtime Activities
+
+Your characters may choose to undertake one downtime action in-between sessions.
+
+Post your activities in the downtime-activities channel
+
+---
+## Carousing
+
+Carousing is a way for you to convert all that coin you're hoarding into XP and other benefits. It consists of a night, or week, of heavy drinking, party, and debauchery.
+
+Depending on the amount of gold coins you put into carousing, you may add a modifier to the **Carousing Event** roll.
+
+**Typical** rewards yield 2-3 XP and a benefit or mishap.
+
+*Full carousing rules are on page 92 of the core rule book.*
+
+---
+## Learning
+
+Your characters can also choose to spend their downtime learning a new skill. This can be anything from learning a new language, learning how to ride a horse, learning proper etiquette. The choice is up to you.
+
+In order to learn a new skill, you must **succeed** on an *extreme* Intelligence check (DC 18).
+
+If you **fail** the check, you can try again during a new week of downtime, reducing the check by one difficulty step.
+
+---
+## Other Activities
+
+You can truly decide to do whatever else you may like during your downtime.

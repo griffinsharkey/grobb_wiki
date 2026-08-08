@@ -4,27 +4,13 @@ nav_order: "4"
 parent: The Gatehouse
 ---
 # The Characters
-A list of the current characters who are actively delving the Gatehouse.
 
-## ~~Ardo the Halfling Thief~~
+- **Gumble Gooble** the Goblin Wizard
+- **Malchor** the Human Fighter
+- **Nooa** the Human Thief
+- **Nymeria** the Elf Cleric
+- **Wulfgang** the Human Cleric
 
+# The Retired or The Deceased
 
-
-## Gumble Gooble the Goblin Wizard
-
-
-
-## Malchor the Human Fighter
-
-
-
-## Nooa the Human Thief
-
-
-
-## Nymeria the Elf Cleric
-
-
-
-## Wulfgang the Human Cleric
-
+- **Ardo the Halfling Thief:** Fallen into a pit trap
