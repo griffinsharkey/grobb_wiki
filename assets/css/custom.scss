@@ -2,12 +2,12 @@ $body-background-color: #f4f4f4;
 $body-text-color: #2d2d2d;
 $link-color: #0066cc;
 
-// Import retro fonts from Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:wght@400;700&family=Space+Mono:wght@400;700&display=swap');
 
-// Retro + Retro aesthetic
 body {
   font-family: 'IBM Plex Serif', serif;
+  background-color: #f4f4f4 !important;
+  color: #2d2d2d !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -19,47 +19,11 @@ code, pre, .code {
   font-family: 'Space Mono', monospace;
 }
 
-// Optional: Add retro styling touches
-body {
-  letter-spacing: 0.02em;
-}
-
-code {
-  background-color: #f4f4f4;
-  padding: 0.2em 0.4em;
-}
-
-pre {
-  background-color: #2d2d2d;
-  color: #f8f8f2;
-  border: 2px solid #333;
-}
-// Retro borders & dividers
-hr {
-  border: none;
-  border-top: 2px dashed #333;
-  margin: 2em 0;
-}
-
-// Retro link styling
 a {
-  text-decoration: underline;
-  color: #0066cc;
+  color: #0066cc !important;
 }
 
 a:hover {
-  background-color: #0066cc;
-  color: white;
-}
-
-// Retro color palette (adjust to your preference)
-$retro-dark: #2d2d2d;
-$retro-cream: #f4f4f4;
-$retro-blue: #0066cc;
-$retro-orange: #ff6600;
-
-// Add a subtle background texture if you want
-body {
-  background-color: $retro-cream;
-  color: $retro-dark;
+  background-color: #0066cc !important;
+  color: white !important;
 }

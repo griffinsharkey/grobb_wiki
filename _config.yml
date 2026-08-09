@@ -9,10 +9,7 @@ favicon: favicon.ico
 
 # Default settings
 defaults:
-  - scope:
-      path: "docs"
-      type: "pages"
-    
+
     values:
       layout: "default"
 
