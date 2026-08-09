@@ -1,9 +1,0 @@
-
-body {
-  cursor: url('/assets/cursor.png'), auto;
-  /* Fallback to auto if file not found */
-}
-
-a, button {
-  cursor: url('/assets/cursor_link.cur'), pointer;
-}
