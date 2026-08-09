@@ -22,7 +22,6 @@ relative_links:
 
 # Theme
 remote_theme: just-the-docs/just-the-docs
-color_scheme: custom
 
 # Search settings
 search_enabled: true
