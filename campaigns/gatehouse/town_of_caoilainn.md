@@ -81,11 +81,11 @@ Here are a list of retainers that are looking for work.
 
 ## Level 0
 Fee: 5 gp per delve
-### Garduk the Human | Employed by: TBD
+### Garduk the Human | Employed by: Nooa
 - **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2
 - **Gear:** Club, Leather Armor
 
-### Juzawik the Human | Employed by: TBD
+### Juzawik the Human | Employed by: Wulfgang
 - **S** +2, **D** +0, **C** +1, **I** +3, **W** +0, **Ch** +0, **AL** N, **HP** 1
 - **Gear:** Hunting Bow, Arrows (5)
 
