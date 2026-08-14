@@ -49,6 +49,6 @@ A few rules if a Player Character must perish within the Dungeon.
 
 ---
 # Second Player Characters
-Players are encouraged to have a secondary, leveled character created for if their **Primary Character** has an untimely demise within the Dungeon. They may also choose to play as their **Secondary Character** if they so choose before going on a delve.
+Players are encouraged to have a secondary, leveled character created for if their **Primary Character** has an untimely demise within the Dungeon. They may also choose to play as their **Secondary Character** if they decide to before going on a delve.
 
 
