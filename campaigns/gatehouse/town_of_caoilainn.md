@@ -93,13 +93,5 @@ Fee: 5 gp per delve
 - **S** +1, **D** -1, **C** +2, **I** -1, **W** +2, **Ch** +2, **AL** N, **HP** 2
 - **Gear:** Dagger, Shield
 
-## Level 1
-Fee: 10 gp per delve
-### Delrean the Human Wizard | Employed by: TBD
-- **S** -1, **D** +2, **C** -1, **I** +2, **W** +0, **Ch** +2, **AL** N, **HP** 2
-- **Gear:** Caltrops (one bag), Dagger, Flask,
-- **Spells:** Detect Magic, Hold Portal, Magic Missile, Sleep
-- **Talents:** Adv on Detect Magic, Learn Sleep
-
 ---
 
