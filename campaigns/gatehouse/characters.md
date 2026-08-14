@@ -5,6 +5,7 @@ parent: The Gatehouse
 ---
 # The Characters
 
+- **Bolli** the Dwarf Fighter
 - **Gumble Gooble** the Goblin Wizard
 - **Malchor** the Human Fighter
 - **Nooa** the Human Thief
