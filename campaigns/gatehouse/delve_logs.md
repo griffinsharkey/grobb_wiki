@@ -24,3 +24,12 @@ Logs of past delves seem to have been lost...
 - XP Earned: 4 XP
 - DEATHS: 0 Deaths
 
+### Delve Log NUMBER
+- 08/21/2026
+- Time Spent: 3 hours 40 minutes in the dungeon proper
+- Who Returned: Wulfgang, Bolli, Gumble, Gurdak
+- Treasure: Gilded helmet (30gp), +1 Shortsword, Helm of Ramlaat, +1 Chain of Recovery, bleached skull, 50 gp, Elven earrings of gaseous form, Spider amulet (25gp)
+- Monsters: x1 Gelatinous Cube, x2 lizardmen, x1 cultist, x6 centipedes
+- XP Earned: 5 XP
+- DEATHS: Nathant the Elf Retainer, Juzawick the Retainer; their bodies returned to the town's grave.
+
