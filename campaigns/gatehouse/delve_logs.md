@@ -24,7 +24,7 @@ Logs of past delves seem to have been lost...
 - XP Earned: 4 XP
 - DEATHS: 0 Deaths
 
-### Delve Log NUMBER
+### Delve Log 3
 - 08/21/2026
 - Time Spent: 3 hours 40 minutes in the dungeon proper
 - Who Returned: Wulfgang, Bolli, Gumble, Gurdak
