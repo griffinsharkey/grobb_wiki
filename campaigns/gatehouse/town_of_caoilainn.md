@@ -85,13 +85,7 @@ Fee: 5 gp per delve
 - **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2
 - **Gear:** Club, Leather Armor
 
-### Juzawik the Human | Employed by: Wulfgang
-- **S** +2, **D** +0, **C** +1, **I** +3, **W** +0, **Ch** +0, **AL** N, **HP** 1
-- **Gear:** Hunting Bow, Arrows (5)
 
-### Nathant the Elf | Employed by: Gumble
-- **S** +1, **D** -1, **C** +2, **I** -1, **W** +2, **Ch** +2, **AL** N, **HP** 2
-- **Gear:** Dagger, Shield
 
 ---
 

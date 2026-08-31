@@ -33,3 +33,11 @@ Logs of past delves seem to have been lost...
 - XP Earned: 5 XP
 - DEATHS: Nathant the Elf Retainer, Juzawick the Retainer; their bodies returned to the town's grave.
 
+### Delve Log 4
+- 08/21/2026
+- Time Spent: 30 hours 20 minutes in the dungeon proper
+- Who Returned: Wulfgang, Nymeria, Nooa, Malchor, Gurdak, 14 Prisoners
+- Treasure: 35 gp, 175 copper ingots (5 gp each), x2 gnoll ears (5 gp), Yellow Gem Amulet
+- Monsters: x1 Ogre, x1 Bugbear, x6 Hobgoblins, x3 Gnolls
+- XP Earned: 4 XP
+- DEATHS: NONE
