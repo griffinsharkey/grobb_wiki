@@ -81,11 +81,21 @@ Here are a list of retainers that are looking for work.
 
 ## Level 0
 Fee: 5 gp per delve
-### Garduk the Human | Employed by: Nooa
-- **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AL** L, **HP** 2
+### Garduk the Human
+- **S** +4, **D** +1, **C** +2, **I** +1, **W** -1, **Ch** +1, **AC** 12, **HP** 2
 - **Gear:** Club, Leather Armor
 
+### Hald Flann the Halfling
+- **S** +1, **D** +0, **C** +3, **I** -1, **W** +1, **Ch** +0, **AC** 10, **HP** 3
+- **Gear:** Club, Rope 60', Grappling Hook
 
+### Mistvar the Elf
+- **S** +1, **D** -1, **C** +2, **I** +2, **W** -1, **Ch** -1, **AC** 9, **HP** 2
+- **Gear:** Staff, Crowbar, Oil flask, Spell Scroll (Fixed Object)
 
----
-
+## Level 1
+Fee: 15 gp per delve
+### Brother Mathias (human priest)
+- **S** +0, **D** +3, **C** +0, **I** +1, **W** +2, **Ch** +1, **AC** 13, **HP** 4
+- **Gear:** Wooden Stakes (10), Staff, Monk's Robes, Spell Scroll (Cure Wounds)
+- **Spells:** Cure Wounds, Light, Turn Undead
